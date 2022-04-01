@@ -2609,4 +2609,5 @@ def xoknp():
     os.system('echo " -----------------------------------"| lolcat')
     print '    Cracking Start Please Wait ..   '
     print '   Use Airplane Mod For Speed Up'
-    os.system('echo " ------…
+    
+
